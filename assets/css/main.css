@@ -1348,7 +1348,12 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			.poptrox-popup:before {
+			.poptrox-popup .caption {
+				position: fixed !important;
+				bottom: 0;
+			}
+
+			/*.poptrox-popup:before {
 				display: none;
 			}
 
@@ -1360,7 +1365,7 @@ input, select, textarea {
 			.poptrox-popup .nav-previous,
 			.poptrox-popup .nav-next {
 				display: none !important;
-			}
+			}*/
 
 		}
 
