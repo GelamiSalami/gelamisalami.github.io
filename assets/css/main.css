@@ -1283,6 +1283,7 @@ input, select, textarea {
 			text-align: left;
 			width: 100%;
 			z-index: 2;
+			text-shadow: 1.5px 1.5px 2px rgba(10, 10, 10, 1);
 		}
 
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
@@ -1291,6 +1292,10 @@ input, select, textarea {
 
 			.poptrox-popup .caption p {
 				color: #ffffff;
+			}
+
+			.poptrox-popup .caption p a {
+				color: #63ffd8;
 			}
 
 		.poptrox-popup .loader {
