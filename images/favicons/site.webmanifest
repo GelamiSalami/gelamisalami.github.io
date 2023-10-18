@@ -1,6 +1,8 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "GelamiSalami",
+    "short_name": "GelamiSalami",
+    "background_color": "#C11D25",
+    "theme_color": "#C11D25",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
