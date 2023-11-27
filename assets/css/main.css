@@ -1290,8 +1290,13 @@ input, select, textarea {
 				margin: 0 0 0.5em 0;
 			}
 
+			.poptrox-popup .caption i {
+				color: #cccccc;
+			}
+
 			.poptrox-popup .caption p {
 				color: #ffffff;
+				font-style: normal;
 			}
 
 			.poptrox-popup .caption p a {
